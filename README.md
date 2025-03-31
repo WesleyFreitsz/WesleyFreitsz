@@ -1,6 +1,6 @@
 - 👋 Olá me chamo @WesleyFreitsz
 - 👀 Sou um Programador Front End
-- 🌱 Estou trabalhando na empresa G&P
-- 💞️ Trabalho com as linguagens Javascript e React
+- 🌱 Atualmente procurando novas oportunidades de colocar em pratica todo conhecimento que adquiri nos ultimos anos
+- 💞️ Trabalho com as linguagens Javascript, Typescript, React e Angular
 
 
