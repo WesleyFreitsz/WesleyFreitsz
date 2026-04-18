@@ -93,7 +93,7 @@ I'm driven by innovation and thrive on projects that challenge the ordinary.
 
 I'm always open to interesting conversations, collaborations and new opportunities.
 
-- 🌐 **Portfolio:** [wjportfolio.vercel.app](https://wjportfolio.vercel.app)
+- 🌐 **Portfolio:** [wjportfolio.vercel.app](https://portfolio-eta-plum-95.vercel.app/)
 - 💼 **LinkedIn:** [linkedin.com/in/wesleyfreitasz](https://linkedin.com/in/wesleyfreitasz)
 - 📧 **Email:** [wesleyviniciusfreitas.jr@gmail.com](mailto:wesleyviniciusfreitas.jr@gmail.com)
 - 💬 **WhatsApp:** [+55 43 99956-7359](https://wa.me/5543999567359)
@@ -136,7 +136,7 @@ Sou movido pela inovação e prospero em projetos que desafiam o comum.
 - 🔭 Atualmente construindo meu portfólio pessoal com Next.js 15
 - 🌱 Sempre aprendendo — atualmente focado em otimização de performance e system design
 - 💼 Aberto a **projetos freelance** e **oportunidades full-time**
-- 📍 Baseado em **Londrina - PR, Brasil**
+- 📍 Resido em **Londrina - PR, Brasil**
 - ⚡ Curiosidade: escondo easter eggs nos meus projetos
 
 ## 🛠️ Stack Tecnológica
@@ -198,7 +198,7 @@ Sou movido pela inovação e prospero em projetos que desafiam o comum.
 
 Estou sempre aberto a conversas interessantes, colaborações e novas oportunidades.
 
-- 🌐 **Portfólio:** [wjportfolio.vercel.app](https://wjportfolio.vercel.app)
+- 🌐 **Portfólio:** [wjportfolio.vercel.app](https://portfolio-eta-plum-95.vercel.app/)
 - 💼 **LinkedIn:** [linkedin.com/in/wesleyfreitasz](https://linkedin.com/in/wesleyfreitasz)
 - 📧 **Email:** [wesleyviniciusfreitas.jr@gmail.com](mailto:wesleyviniciusfreitas.jr@gmail.com)
 - 💬 **WhatsApp:** [+55 43 99956-7359](https://wa.me/5543999567359)
