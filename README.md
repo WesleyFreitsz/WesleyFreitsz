@@ -22,8 +22,10 @@ Foco em arquitetura de sistemas escaláveis, TypeScript, Next.js e ecossistema N
 > *E-commerce Fullstack* · [Live Demo](https://loja-altgeek-store.vercel.app)
 - Plataforma completa de comércio eletrônico com Next.js 16 (Turbopack), Prisma e Tailwind.
 - Painel administrativo para gestão de estoque e pedidos, cupons dinâmicos, checkout responsivo e integração com gateway de pagamentos Asaas via webhooks.
-### [MIPO](https://github.com/WesleyFreitsz/MIPO-App-Backend)
-> *Ecossistema de Aplicação Web & API*
+### [MIPO](https://github.com/WesleyFreitsz/MIPO-App-Backend)//(https://github.com/WesleyFreitsz/MIPO-App-Frontend)
+> *Sistema completo de Rede social*
 - Backend modular em NestJS com arquitetura desacoplada, autenticação, regras de domínio e integração com interface web em TypeScript.
+- Feeds públicos e privados voltados para compartilhamento de coleções, organização de mesas e interação entre jogadores.
+- APIs REST estruturadas e documentadas para integração direta com clientes web e mobile.
 ---
 📍 Londrina - PR, Brasil · Disponível para posições remotas e projetos selecionados.
